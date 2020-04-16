@@ -6,4 +6,4 @@ Time Complexity: O(log n)
 
 Binary Search
 
-Space Complexity: O(1)
+Space Complexity: O(logn) solution is recursive and the call stack uses O(logn) space
